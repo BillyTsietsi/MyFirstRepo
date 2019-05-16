@@ -6,5 +6,6 @@
 
 <h1>Name: Billy </h1>
 <h2>Address: 1577 Ntokozweni </h2>
+<h3>Qualifications: National Diploma: IT </h3>
 </body>
 </html>
